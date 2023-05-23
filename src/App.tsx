@@ -1,5 +1,4 @@
-import "./App.css";
-
+// first commit
 function App() {
   return <>main</>;
 }
